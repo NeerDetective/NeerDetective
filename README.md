@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Shemar! <br/>Programmer</h1>
+
+<h2>👨‍💻 Python Development Projects:</h2>
+
+- <b>Software Tour Guide (Python)</b>
+  - [Project using OpenCV,pytts3 and SpeechRecognition](https://github.com/NeerDetective/URL)
+  -  [Hello World! Python](https://github.com/NeerDetective/URL)
+
+
 
 <!--
-**NeerDetective/NeerDetective** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
