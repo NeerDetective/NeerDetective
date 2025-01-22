@@ -4,7 +4,7 @@
 
 - <b>Software Tour Guide (Python)</b>
   - [Project using OpenCV,pytts3 and SpeechRecognition](https://github.com/NeerDetective/Tour-Guide)
-  -  [Hello World! Python]((https://github.com/NeerDetective/Tour-Guide))
+  -  [Hello World! Python](https://github.com/NeerDetective/Tour-Guide)
 
 
 
