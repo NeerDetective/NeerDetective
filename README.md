@@ -3,8 +3,8 @@
 <h2>👨‍💻 Python Development Projects:</h2>
 
 - <b>Software Tour Guide (Python)</b>
-  - [Project using OpenCV,pytts3 and SpeechRecognition](https://github.com/NeerDetective/URL)
-  -  [Hello World! Python](https://github.com/NeerDetective/URL)
+  - [Project using OpenCV,pytts3 and SpeechRecognition](https://github.com/NeerDetective/Tour-Guide)
+  -  [Hello World! Python]((https://github.com/NeerDetective/Tour-Guide))
 
 
 
